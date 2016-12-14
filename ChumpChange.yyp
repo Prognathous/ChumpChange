@@ -892,6 +892,82 @@
                 "resourcePath": "paths\\path_0\\path_0.yy",
                 "resourceType": "GMPath"
             }
+        },
+        {
+            "Key": "f18377e2-e91a-4672-90d5-2f4e4044f1a9",
+            "Value": {
+                "id": "708936ba-afef-4cc1-a58d-940058f76b74",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\\path_1\\path_1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "8b45b1b6-57f5-40d1-a44f-e7b083151217",
+            "Value": {
+                "id": "3c5685bb-9075-4c7d-81b3-a9cbc2527afe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\\path_2\\path_2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "d4f08d24-14d8-44f1-96fa-e6b16008e9a4",
+            "Value": {
+                "id": "0ed58113-703b-4369-ac75-eb1e6c223f1c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\\path_3\\path_3.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "6a37fc4d-9b1c-4879-aab7-fa61147db6e1",
+            "Value": {
+                "id": "eb21fc0d-81f1-440b-b644-7a50c2ccc6a7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "shaders\\shader_0\\shader_0.yy",
+                "resourceType": "GMShader"
+            }
         }
     ],
     "room_order": [
