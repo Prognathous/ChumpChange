@@ -873,6 +873,44 @@
                 "resourcePath": "scripts\\script_0\\script_0.yy",
                 "resourceType": "GMScript"
             }
+        },
+        {
+            "Key": "148a2ccf-b446-4f07-903a-4d21b475ce26",
+            "Value": {
+                "id": "035e194f-2ff6-4233-a779-c415d9524264",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "notes\\note_0.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "0a772a1d-5139-40af-bd77-a7d37bd37a2d",
+            "Value": {
+                "id": "91f51de1-490b-4468-9702-209ddca59476",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\\sound_0\\sound_0.yy",
+                "resourceType": "GMSound"
+            }
         }
     ],
     "room_order": [
