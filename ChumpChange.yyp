@@ -242,9 +242,6 @@
         {
             "Key": "508c17fe-90fe-40e0-9caf-8b8ed00e9895",
             "Value": {
-                "configDeltas": [
-                    "a"
-                ],
                 "id": "594bd1d5-f570-4262-a9be-ac8906d2a0d7",
                 "resourcePath": "sprites\\sprite_0\\sprite_0.yy",
                 "resourceType": "GMSprite"
@@ -448,6 +445,14 @@
                 "id": "9769d091-18d7-4ab8-a0a6-0a5b120e78ec",
                 "resourcePath": "sprites\\sprite_2\\sprite_2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da8da22f-c72d-4536-89eb-78a343582944",
+            "Value": {
+                "id": "6cabe92d-0537-41c6-bfed-7f7b4fa15ca9",
+                "resourcePath": "objects\\object_0\\object_0.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
