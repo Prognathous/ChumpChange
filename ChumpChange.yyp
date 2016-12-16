@@ -76,7 +76,8 @@
         {"Key": "c631751e-6183-46b7-9b7c-ba22c09da02f","Value": {"id": "7a91dfce-31fc-4d93-8e8e-968b6fb2403e","resourcePath": "objects\\object_0\\object_0.yy","resourceType": "GMObject"}},
         {"Key": "505cce24-8e30-4d2d-830f-94108820cc77","Value": {"id": "3388edc6-a8b2-473a-be57-e36af6379ecd","resourcePath": "fonts\\font_0\\font_0.yy","resourceType": "GMFont"}},
         {"Key": "6c4e138a-595b-4fbc-9922-8f1966312fc2","Value": {"id": "a50be697-05c2-45c4-b3e0-7cbfd2f05d45","resourcePath": "objects\\object_1\\object_1.yy","resourceType": "GMObject"}},
-        {"Key": "5d0493e6-20ec-4bb0-930b-ee0b45e72284","Value": {"id": "051a6e35-ebbd-4ecd-9a9e-eea2c2ca32c2","resourcePath": "objects\\object_2\\object_2.yy","resourceType": "GMObject"}}
+        {"Key": "5d0493e6-20ec-4bb0-930b-ee0b45e72284","Value": {"id": "051a6e35-ebbd-4ecd-9a9e-eea2c2ca32c2","resourcePath": "objects\\object_2\\object_2.yy","resourceType": "GMObject"}},
+        {"Key": "c72cceee-9560-44cf-8866-0e4d4a232b45","Value": {"id": "ef28ddce-fc19-47e9-8455-f8818eaa2d17","resourcePath": "timelines\\timeline_0\\timeline_0.yy","resourceType": "GMTimeline"}}
     ],
     "room_order": [
         "8f6398c4-4557-47c9-8b5b-7a80f61798a9"
