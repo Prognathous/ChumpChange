@@ -178,12 +178,17 @@
         {
             "Key": "508c17fe-90fe-40e0-9caf-8b8ed00e9895",
             "Value": {
-                "configDeltas": [
-                    "a"
-                ],
                 "id": "594bd1d5-f570-4262-a9be-ac8906d2a0d7",
                 "resourcePath": "sprites\\sprite_0\\sprite_0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "53ab08c7-5db6-49cc-bb59-06bde6b72209",
+            "Value": {
+                "id": "f0835e2c-22a6-43de-a324-24a031f87278",
+                "resourcePath": "timelines\\timeline_0\\timeline_0.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
