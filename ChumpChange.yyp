@@ -80,6 +80,7 @@
         ,{"Key": "c72cceee-9560-44cf-8866-0e4d4a232b45","Value": {"id": "ef28ddce-fc19-47e9-8455-f8818eaa2d17","resourcePath": "timelines\\timeline_0\\timeline_0.yy","resourceType": "GMTimeline"}}				
 		,{"Key": "9b23b9de-3959-4dba-81c2-a2c9c411be47","Value": {"id": "fb107fa7-37d2-43b7-8d98-4eb6ab30f4f0","resourcePath": "timelines\\timeline_1\\timeline_1.yy","resourceType": "GMTimeline"}}		
 		,{"Key": "fd39b8eb-c918-434a-8882-27ec44e0d023","Value": {"id": "aee4cb05-2b4a-487b-acf2-8c1060c60f29","resourcePath": "fonts\\font_1\\font_1.yy","resourceType": "GMFont"}}
+		,{"Key": "9b23b9de-3959-4dba-81c2-a2c9c411be47","Value": {"id": "fb107fa7-37d2-43b7-8d98-4eb6ab30f4f0","resourcePath": "timelines\\timeline_2\\timeline_2.yy","resourceType": "GMTimeline"}}
     ],
     "room_order": [
         "8f6398c4-4557-47c9-8b5b-7a80f61798a9"
