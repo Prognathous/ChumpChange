@@ -178,6 +178,9 @@
         {
             "Key": "508c17fe-90fe-40e0-9caf-8b8ed00e9895",
             "Value": {
+                "configDeltas": [
+                    "a"
+                ],
                 "id": "594bd1d5-f570-4262-a9be-ac8906d2a0d7",
                 "resourcePath": "sprites\\sprite_0\\sprite_0.yy",
                 "resourceType": "GMSprite"
@@ -189,14 +192,6 @@
                 "id": "f0835e2c-22a6-43de-a324-24a031f87278",
                 "resourcePath": "timelines\\timeline_0\\timeline_0.yy",
                 "resourceType": "GMTimeline"
-            }
-        },
-        {
-            "Key": "5d0493e6-20ec-4bb0-930b-ee0b45e72284",
-            "Value": {
-                "id": "051a6e35-ebbd-4ecd-9a9e-eea2c2ca32c2",
-                "resourcePath": "objects\\object_2\\object_2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -336,6 +331,14 @@
             }
         },
         {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "ff63769a-9e66-4a40-9988-229ef2b33625",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
             "Key": "a28decae-a267-425f-9fa0-a08b972668f9",
             "Value": {
                 "id": "73bea541-701a-4f47-b56c-d7ee71903c66",
@@ -405,14 +408,6 @@
                 "id": "fed0dd7f-04f3-4db6-9856-85f15ee186d2",
                 "resourcePath": "views\\c8fd5fe2-bd00-40b0-8035-8fc41d8183f2.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c8fd71ef-f115-4a84-8543-b43d907aebf9",
-            "Value": {
-                "id": "8b87345b-573a-4a25-9ee5-714bae7ff6ae",
-                "resourcePath": "objects\\object_3\\object_3.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -511,9 +506,6 @@
                 "resourceType": "GMFont"
             }
         }
-    ],
-    "room_order": [
-        "8f6398c4-4557-47c9-8b5b-7a80f61798a9"
     ],
     "script_order": [
         "87bc6b68-932f-4783-ad41-16b8d56d55b2"

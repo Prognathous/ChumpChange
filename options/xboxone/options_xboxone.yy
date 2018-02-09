@@ -37,5 +37,6 @@
         "major": 1,
         "minor": 0,
         "revision": 0
-    }
+    },
+    "option_xbone_x_title_memory": 5
 }
